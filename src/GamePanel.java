@@ -1,13 +1,13 @@
+// Based on a tutorial by Bro Code
+// Original video: https://youtu.be/oLirZqJFKPE
+// I do not claim ownership of the original code.
+// You may notice some slight changes, but the core logic remains largely the same as in the original tutorial.
+
 import java.awt.*;
 import java.awt.event.KeyAdapter;
 import java.awt.event.KeyEvent;
 import java.util.Random;
 import javax.swing.JPanel;
-
-// Based on a tutorial by Bro Code
-// Original video: https://youtu.be/oLirZqJFKPE
-// I do not claim ownership of the original code.
-// You may notice some slight changes, but the core logic remains largely the same as in the original tutorial.
 
 // GamePanel is the core engine of the game.
 // It implements Runnable to allow the game loop to run on a separate Thread.

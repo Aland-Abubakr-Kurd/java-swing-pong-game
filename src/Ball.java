@@ -1,12 +1,12 @@
-import java.awt.Color;
-import java.awt.Graphics;
-import java.awt.Rectangle;
-import java.util.Random;
-
 // Based on a tutorial by Bro Code
 // Original video: https://youtu.be/oLirZqJFKPE
 // I do not claim ownership of the original code.
 // You may notice some slight changes, but the core logic remains largely the same as in the original tutorial.
+
+import java.awt.Color;
+import java.awt.Graphics;
+import java.awt.Rectangle;
+import java.util.Random;
 
 // Ball class handles the bouncing projectile.
 // Also inherits from Rectangle for easy collision detection.

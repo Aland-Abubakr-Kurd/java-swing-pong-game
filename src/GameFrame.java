@@ -1,10 +1,10 @@
-import java.awt.Color;
-import javax.swing.JFrame;
-
 // Based on a tutorial by Bro Code
 // Original video: https://youtu.be/oLirZqJFKPE
 // I do not claim ownership of the original code.
 // You may notice some slight changes, but the core logic remains largely the same as in the original tutorial.
+
+import java.awt.Color;
+import javax.swing.JFrame;
 
 // GameFrame sets up the main window for the application.
 

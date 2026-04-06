@@ -1,10 +1,10 @@
-import java.awt.*;
-import java.awt.event.*;
-
 // Based on a tutorial by Bro Code
 // Original video: https://youtu.be/oLirZqJFKPE
 // I do not claim ownership of the original code.
 // You may notice some slight changes, but the core logic remains largely the same as in the original tutorial.
+
+import java.awt.*;
+import java.awt.event.*;
 
 // Paddle class handles the players' bats.
 // Inheriting from Rectangle gives it built-in x, y, width, height, and collision detection!

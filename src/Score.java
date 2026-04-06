@@ -1,12 +1,12 @@
-import java.awt.Color;
-import java.awt.Font;
-import java.awt.Graphics;
-import java.awt.Rectangle;
-
 // Based on a tutorial by Bro Code
 // Original video: https://youtu.be/oLirZqJFKPE
 // I do not claim ownership of the original code.
 // You may notice some slight changes, but the core logic remains largely the same as in the original tutorial.
+
+import java.awt.Color;
+import java.awt.Font;
+import java.awt.Graphics;
+import java.awt.Rectangle;
 
 // Score class displays the current points and the net line down the middle.
 
